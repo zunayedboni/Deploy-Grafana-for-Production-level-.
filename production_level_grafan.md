@@ -102,6 +102,12 @@ If **Pushgateway** is enabled in the future, you should also see:
 
 ### step 1: Now install node_exporter from where you wanna collect log : 
 Create a folder inside **/opt** named **node_exporter** . 
+
+```bash
+sudo mkdir node_exporter
+```
+now install node exporter for server.
+
 ```bash
 wget https://github.com/prometheus/node_exporter/releases/download/v1.6.0/node_exporter-1.6.0.linux-amd64.tar.gz
 sudo tar -xvzf node_exporter-1.6.0.linux-amd64.tar.gz       # unzip the file 
@@ -299,5 +305,5 @@ Panel Type:
 ### Time Series
 
 **Zunayed Islam Rabbi** 
-**System ENgineer** 
+**System Engineer** 
 **Schertech** 
