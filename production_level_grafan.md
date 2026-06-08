@@ -297,3 +297,7 @@ Percent (0-100)
 ```
 Panel Type:
 ### Time Series
+
+**Zunayed Islam Rabbi** 
+**System ENgineer** 
+**Schertech** 
